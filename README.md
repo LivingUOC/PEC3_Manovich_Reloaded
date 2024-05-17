@@ -8,7 +8,7 @@ Autor: Gonzalo Bautista García
 
 Fecha: xx-05-2024
 
-![Cultura Digital]([https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png](https://i.ibb.co/5x3Bz27/mezcla2.jpg)) 
+![Cultura Digital](https://i.ibb.co/5x3Bz27/mezcla2.jpg)
 
 
 
