@@ -6,7 +6,7 @@
 Autor: Gonzalo Bautista García
 
 
-Fecha: xx-05-2024
+Fecha: 19-05-2024
 
 ![Cultura Digital](https://i.ibb.co/5x3Bz27/mezcla2.jpg)
 
