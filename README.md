@@ -19,15 +19,15 @@ Fecha: 19-05-2024
 Estamos Re-planteando.
 
 
-## Re-descubriendo la hibridacion: Caso 1
+## Re-descubriendo la hibridacion: Caso 1 Borderlands
+![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Borderlands_Movie_Logo.png/1200px-Borderlands_Movie_Logo.png)
+Sé paciente..Estamos trabajando en ello
 
-Estamos redescubriendo
 
 
+## Re-descubriendo la hibridacion: Caso 2 Artbreeder
 
-## Re-descubriendo la hibridacion: Caso 2
-
-Estamos redescubriendo
+Sé paciente..Estamos trabajando en ello
 
 
 ### Referencias y Bibliografía
