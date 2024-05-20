@@ -73,47 +73,61 @@ No solo se enriquece el medio videojuego, si no que asistimos al poder transform
 
 ## Caso 2 Artbreeder
 ![Logo](https://d2y5h3osumboay.cloudfront.net/mj6ldyr776111mt3r7p41qf9lfj4)
-
+<p align="justify">
 Y es que cuando confluyen diversas tecnologías y medios, se crean innovaciones sin precedentes en el campo de la creatividad artística.  
-
+</p>
+<p align="justify">
 En este caso Artbreeder, es una herramienta que a través de la IA, nos ofrece diferentes posibilidades, a través de fotografías, bien originales o creadas, entre ellas, tenemos opciones de generar una imagen, mezclando imágenes y texto, combinar un patrón con un texto, y generar algo nuevo, convertirnos en director, pidiendo al sistema que busque inspiración dándole imágenes, afinar texturas, crear una imagen a través de unas texturas de color, es decir, cualquier imagen es posible, a través de este software, bien combinándola con otra, con un fondo o con un texto, y el resultado es sencillamente asombroso.  
-
+</p>
 [Link](https://www.artbreeder.com/create)
 
 
 >otras veces la combinación de ADN del software da pie a «especies» de medios totalmente nuevas.
-
+<p align="justify">
 >>Lev, Manovich, L. [Lev]. (ed.) (2013). El software toma el mando (1ª. Ed.) [Recurso de aprendizaje] Editorial UOC. Comparación entre hibridez y multimedia. 5/25.
-
+</p>
+<p align="justify">
 Eso pensarían los padres de Lev, si pudieran vislumbrar su obra, llegarían a creer que esa hibridación entre ellos, daría lugar a uno de los más grandes pensadores, una especie de medio, y es que el concepto hibridación viene heredado del plano sexual o reproductivo, según nos apunta Lev, por ello, todo coincide en el metamedio, todo es multimedia.  
-
+</p>
+<p align="justify">
 Y es que, de la transformación y combinación de diferentes medios, nace el arte, Artbreeder es una plataforma basada en inteligencia artificial donde la creación y la mezcla de imágenes, forman parte de su ADN y con ello, estamos ante un auténtico ejemplo de hibridación.  
-
+</p>
+<p align="justify">
 A través de sus canales, podemos ver como convergen técnicas de inteligencia artificial, redes sociales, arte digital, y un poquito de nuestra magia particular, darán como solución, una redefinición de procesos creativos, ampliando nuestro pensamiento de expresión artística.  
-
+</p>
+<p align="justify">
 Lev, (si, como dije anteriormente, seguirá siendo Lev y de momento no cambiaré de opinión hasta el último párrafo de este documento) en la obra “El lenguaje de los nuevos medios”, nos explica cómo se integran tecnologías diversas y medios tradicionales con los elementos tecnológicos y digitales en forma de expresión divina, de expresión cultural.  
-
+</p>
+<p align="justify">
 Cuando usamos Artbreeder, estamos permitiendo que al usar redes generativas antagónicas (GANs), si fuésemos capaces de simplificar al máximo este concepto, podríamos decir que enfrentaríamos a dos inteligencias artificiales, donde una produciría y la otra estaría constantemente corrigiendo lo que hizo la anterior. (suena a una pesadilla de un ciborg, lo sé), pero la IA, está usando sus propias herramientas para crecer., y con el uso de esas redes, permitimos que los usuarios, creen, modifiquen imágenes solo mediante la combinación de múltiples fuentes y opciones, por tanto no solo fusionamos arte y ciencia para crear el *“cienciarte”*  *(**bonita palabra que describe perfectamente lo que ocurre con esta herramienta, ya que  transformamos al consumidor en un creador en potencia, un Gaudí de tercera regional, con todos mis respetos a su inmensa obra**)*
-
+</p>
+<p align="justify">
 Y es que tenemos que detenernos un poco en las GANs, ya que estas redes con un desarrollo de IA, son capaces de aprender y reproducir, patrones complejos de millones de datos visuales.  
-
+</p>
+<p align="justify">
 Como el sistema se va retroalimentando, podemos ofrecer al usuario, un conjunto de técnicas, de aprendizaje, para que el usuario, variando y alternando opciones de entrada, pueda generar creaciones de lo mas diverso y variopinto. Estamos ante un proceso hibrido de creación, mezclando arte contemporáneo, con unos algoritmos de IA, para dar lugar a una hibridación tecnología de manual, pudiendo expandir el umbral de la creación hacia limites inimaginables, *(**te das cuenta Lev que me estoy empezando a acostumbrar a la montura de tus gafas**)*  
-
+</p>
+<p align="justify">
 No hay que olvidar el abanico de posibilidades que nos ofrece Artbreeder, podemos añadir otra capa de hibridación, si dotamos al sistema de un campo donde podemos escribir texto, para que sea materializado en imágenes, incluso coger imágenes de terceros, lo cual multiplica por infinito, las posibilidades re resultados a obtener.  
-
+</p>
+<p align="justify">
 Está claro que al integrar esto con el resto del mundo a través de redes sociales, no neuronales, (como dije unos párrafos atrás, aunque a veces muchas neuronas no hay en las redes sociales), sigamos el ensayo, que me disperso, los usuarios pueden compartir creaciones, colaborar con terceros, y generar un flujo continuo de colaboración con otros “artistas” como nosotros.  
-
+</p>
+<p align="justify">
 Así pues, llegamos a afirmar que, con el uso de esta herramienta, estamos entrando en una comunidad dinámica y artística, resaltando la idea de Lev, de que los nuevos medios no solo combinan tecnología, sino que también reconfiguran la interacción entre usuarios, sea cual sea, la capa de la sociedad a la que pertenezcan o de la cultura de la que vengan.  
-
+</p>
+<p align="justify">
 Tenemos a nuestro alcance una herramienta de diseño intuitivo, de sencillez loable, donde permite a los usuarios, sin demasiados conocimientos, asomarse a la creación, a través del proceso creativo con la ayuda de múltiples recursos a nuestro alcance.  
-
+</p>
+<p align="justify">
 Si nos paramos a pensar, según Lev, la hibridación tecnológica, puede desafiar y redefinir conceptos culturales establecidos desde sus orígenes, y con la IA detrás, podríamos estar ante la difícil situación, de no ser capaces de atribuir los reconocimientos, por la originalidad y autoría del arte.  
-
+</p>
+<p align="justify">
 En conclusión, Artbreeder, es un claro ejemplo descrito por el Sr. Manovich L. donde converge la IA, arte digital, redes sociales y las neuronas mentales de cada usuario para crear nuevos diseños a través del poder de transformación de la tecnología en la era, actual, la era digital.---  
-
-
+</p>
+<p align="justify">
 ***Sr. Manovich, si usted supiera en cuantos dilemas mentales esta sumergiendo a mis compañeros, seguro una sensación de confortabilidad recorrería su cuerpo, ah, por cierto, se me olvidaba, le devuelvo sus gafas, y le agradezco que me haya permitido usarlas para este ensayo, ya que, sin ellas, no hubiera podido llegar hasta aquí, mis respetos y admiración, amigo.***
-
+</p>
 
 ### Referencias y Bibliografía
 
