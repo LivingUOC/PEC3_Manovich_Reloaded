@@ -136,13 +136,13 @@ En conclusión, Artbreeder, es un claro ejemplo descrito por el Sr. Manovich L. 
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
-* Wikipedia. (2024). Borderlands. Borderlands - Wikipedia, la enciclopedia libre
-* Web oficial (2024). Borderlands. Borderlands | Official Website (2k.com)
-* Web Vandal (2024). Todos los juegos de Borderlands y cuáles son los mejores - Saga completa (elespanol.com)
-* Wikipedia. (2024). Borderlands. https://es.m.wikipedia.org/wiki/Archivo:Borderlands_Movie
-* Web oficial (2024). Artbreeder. Artbreeder
-* Xataka. (2019). Gans. Conceptos de inteligencia artificial: qué son las GANs o redes generativas antagónicas (xataka.com)
-* Web Oficial en español (2024).  Markdown - La guía definitiva en español
+* Wikipedia. (2024). Borderlands. [Link](https://es.wikipedia.org/wiki/Borderlands)
+* Web oficial (2024). Borderlands. [Link](https://vandal.elespanol.com/sagas/borderlands))
+* Web Vandal (2024). [Link](https://vandal.elespanol.com/sagas/borderlands)
+* Wikipedia. (2024). Borderlands. [Link](https://es.m.wikipedia.org/wiki/Archivo:Borderlands_Movie)
+* Web oficial (2024). Artbreeder. [Link](https://www.artbreeder.com/)
+* Xataka. (2019). Gans. [Link](https://www.xataka.com/inteligencia-artificial/conceptos-inteligencia-artificial-que-gans-redes-generativas-antagonicas)
+* Web Oficial en español (2024). [Link](https://markdown.es/)
 
 
 ----
