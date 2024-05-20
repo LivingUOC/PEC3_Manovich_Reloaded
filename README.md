@@ -55,10 +55,10 @@ Otro aspecto resaltable de la hibridación tecnológica, es su enfoque en la coo
 <p align="justify">
 Esta funcionalidad “on line”, se basa en las altas capacidades que tienen los sistemas, las redes de internet, e introduce el elemento social, que enriquece la experiencia de juego. Esta integración de la tecnología de redes con el diseño de juego, refuerza el pensamiento de Lev, sobre que las nuevas tecnologías, tranforman y amplían las posibilidades de los medios actuales.   
 </p>
-<p align="justify">
+
 > A mi juicio, la hibridez de los medios es una reconfiguración más fundamental del universo de los medios que la multimedia. En ambos casos vemos una «confluencia» de distintos tipos de medios. Ahora bien, la multimedia no amenaza la autonomía de los medios individuales. Conservan su propio lenguaje, es decir, sus formas de organizar, acceder y modificar sus datos
 >>Lev, Manovich, L. [Lev]. (ed.) (2013). El software toma el mando (1ª. Ed.) [Recurso de aprendizaje] Editorial UOC. La hibridación y la evolución. 4/20, comparación entre hibridez y multimedia
-</p>
+
 <p align="justify">
 El desarrollar la historia dentro de un mundo abierto, con una narrativa exclusiva, aportan una mayor libertad y personalización de la experiencia del jugador, a diferencia de los juegos habituales, aquí disponemos de una superficie tan sumamente amplia, que nos permite tomar una serie de decisiones que pueden afectar al contenido de la historia. Esta estructura no lineal, donde el jugador no está “limitado”, a seguir un guion, aporta dinamismo y personalización, destacando la hibridación tecnológica, para innovar en el ámbito del entretenimiento a través de videojuegos.  
 </p>
@@ -84,9 +84,9 @@ En este caso Artbreeder, es una herramienta que a través de la IA, nos ofrece d
 </p>
 
 >otras veces la combinación de ADN del software da pie a «especies» de medios totalmente nuevas.
-<p align="justify">
+
 >>Lev, Manovich, L. [Lev]. (ed.) (2013). El software toma el mando (1ª. Ed.) [Recurso de aprendizaje] Editorial UOC. Comparación entre hibridez y multimedia. 5/25.
-</p>
+
 <p align="justify">
 Eso pensarían los padres de Lev, si pudieran vislumbrar su obra, llegarían a creer que esa hibridación entre ellos, daría lugar a uno de los más grandes pensadores, una especie de medio, y es que el concepto hibridación viene heredado del plano sexual o reproductivo, según nos apunta Lev, por ello, todo coincide en el metamedio, todo es multimedia.  
 </p>
