@@ -4,7 +4,8 @@
 
 
 Autor: Gonzalo Bautista García
-
+**Cultura Digital**
+***Grado de Técnicas de Interacción Digital y Multimedia***
 
 Fecha: 20-05-2024
 
@@ -27,38 +28,46 @@ La hibridación de medios, podríamos resumirlo, desde mi punto de vista,  como 
 
 <p align="justify">
 Borderlands, es una saga de videojuegos, que actualmente tiene 16 juegos, para todas las plataformas, arrancando en el año 2009, y creado por Gearbox software, es un hibrido entre mecánicas de rol y shooter, pionero en su estilo, donde años después, acabaron llamando a este estilo, looter shooter.  
-
+</p>
 [Link](https://borderlands.2k.com/es-ES/)
 
-El propósito del juego consiste, en recolectar objetos dentro de un mundo apocalíptico, utilizar armas y convertirlas en otras, personalizar todo lo que este a nuestro alcance, tipo juego de rol, y poder colaborar con más usuarios a través de un modo on-line.  
-
 <p align="justify">
-  
-Es un hecho de nuestros días, que el universo de los videojuegos, ha ido evolucionando de forma vertiginosa, desde su origen, integrando diversas formas de medios y tecnología, para generar experiencias multifacéticas e inmersivas. En este contexto, el concepto que nos propone Lev. De “hibridación tecnológica”, nos acerca a la perspectiva diferente para analizar los videojuegos actuales, como por ejemplo, Borderlands, desarrollado por Gearbox Software, fusionando múltiples elementos de diversos medios y tecnologías, para ofrecernos una experiencia, enriquecedora, diferente e inmersiva.  
-
+El propósito del juego consiste, en recolectar objetos dentro de un mundo apocalíptico, utilizar armas y convertirlas en otras, personalizar todo lo que este a nuestro alcance, tipo juego de rol, y poder colaborar con más usuarios a través de un modo on-line.  
 </p>
-
+<p align="justify">
+Es un hecho de nuestros días, que el universo de los videojuegos, ha ido evolucionando de forma vertiginosa, desde su origen, integrando diversas formas de medios y tecnología, para generar experiencias multifacéticas e inmersivas. En este contexto, el concepto que nos propone Lev. De “hibridación tecnológica”, nos acerca a la perspectiva diferente para analizar los videojuegos actuales, como por ejemplo, Borderlands, desarrollado por Gearbox Software, fusionando múltiples elementos de diversos medios y tecnologías, para ofrecernos una experiencia, enriquecedora, diferente e inmersiva.  
+</p>
+<p align="justify">
 Lev, en “El lenguaje de los Nuevos Medios” viene a decirnos que estos nuevos medios, se componen por la divergencia de varias formas de medios más antiguos y la incorporación de tecnologías digitales actuales. Este caso de hibridación, podemos ver como se ha “cocinado”, la narrativa, textual y cinematográfica, la interactividad con el usuario, y las capacidades gráficas, como nunca habíamos visto antes, en los ordenadores personales, y si además dotamos al sistema de unas cinemáticas elegantes, podemos estar ante un clarísimo ejemplo de hibridación.  
-
+</p>
+<p align="justify">
 En Borderlands, esta hibridación, es patente en muchísimos, aspectos del juego, demostrando la integración, y evolución de todas las tecnologías y la evolución de algunos medios.  
-
+</p>
+<p align="justify">
 Como aspecto destacable, tenemos un estilo visual, único, fuera de lo comúnmente establecido, conocido como, cel-shading, que es una técnica gráfica, que simula un comic, o dibujo animado, es como si viéramos que alguien lo ha pintado a mano, es un claro ejemplo de hibridación, entre el arte tradicional y las altas capacidades digitales a nivel grafico de las que disfrutamos en nuestro día a día.  
-
+</p>
+<p align="justify">
 Tal y como han estructurado este juego, tanto el aspecto visual como la narrativa son fuertemente atrayentes, ya que en el podemos encontrar una combinación de elementos de juegos de rol, y de los juegos en primera persona, creando una experiencia hibrida, permitiendo a los jugadores disfrutar por un de lado la historia en formato novela y de la personalización de personajes en contraposición con la acción y adrenalina de los juegos en primera persona, está claro que los desarrolladores, encontraron una buena simbiosis fusionando ambos géneros.  
-
+</p>
+<p align="justify">
 Otro aspecto resaltable de la hibridación tecnológica, es su enfoque en la cooperación a través de opción de multijugador en línea, ya que integramos las capacidades de varios jugadores, permitimos en tiempo real, esa experiencia de poder crear estrategias compartidas por varios usuarios, en un entorno virtual compartido.  
-
+</p>
+<p align="justify">
 Esta funcionalidad “on line”, se basa en las altas capacidades que tienen los sistemas, las redes de internet, e introduce el elemento social, que enriquece la experiencia de juego. Esta integración de la tecnología de redes con el diseño de juego, refuerza el pensamiento de Lev, sobre que las nuevas tecnologías, tranforman y amplían las posibilidades de los medios actuales.   
-
+</p>
+<p align="justify">
 > A mi juicio, la hibridez de los medios es una reconfiguración más fundamental del universo de los medios que la multimedia. En ambos casos vemos una «confluencia» de distintos tipos de medios. Ahora bien, la multimedia no amenaza la autonomía de los medios individuales. Conservan su propio lenguaje, es decir, sus formas de organizar, acceder y modificar sus datos
 >>Lev, Manovich, L. [Lev]. (ed.) (2013). El software toma el mando (1ª. Ed.) [Recurso de aprendizaje] Editorial UOC. La hibridación y la evolución. 4/20, comparación entre hibridez y multimedia
-
+</p>
+<p align="justify">
 El desarrollar la historia dentro de un mundo abierto, con una narrativa exclusiva, aportan una mayor libertad y personalización de la experiencia del jugador, a diferencia de los juegos habituales, aquí disponemos de una superficie tan sumamente amplia, que nos permite tomar una serie de decisiones que pueden afectar al contenido de la historia. Esta estructura no lineal, donde el jugador no está “limitado”, a seguir un guion, aporta dinamismo y personalización, destacando la hibridación tecnológica, para innovar en el ámbito del entretenimiento a través de videojuegos.  
-
+</p>
+<p align="justify">
 Puedo concluir este ensayo, afirmando que estamos ante un ejemplo paradigmático, de cómo la hibridación, pensada por Lev, puede estar viva dentro de los videojuegos actuales, a través de la combinación de gráficos, fusión de géneros, jugabilidad en línea, y el diseño de un mundo abierto, donde es habitual, ver la convergencia de diferentes tecnologías y medios, en experiencias completamente diferenciales con otros sistemas.  
-
+</p>
+<p align="justify">
 No solo se enriquece el medio videojuego, si no que asistimos al poder transformador de nuevas tecnologías en favor de formas diversas de arte y diversión y por ello, se vuelve a transformar y para el verano, aparece la versión cinematográfica del videojuego. 
-
+</p>
 
 
 
