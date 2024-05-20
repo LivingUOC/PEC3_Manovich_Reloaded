@@ -81,7 +81,7 @@ Y es que cuando confluyen diversas tecnologías y medios, se crean innovaciones 
 <p align="justify">
 En este caso Artbreeder, es una herramienta que a través de la IA, nos ofrece diferentes posibilidades, a través de fotografías, bien originales o creadas, entre ellas, tenemos opciones de generar una imagen, mezclando imágenes y texto, combinar un patrón con un texto, y generar algo nuevo, convertirnos en director, pidiendo al sistema que busque inspiración dándole imágenes, afinar texturas, crear una imagen a través de unas texturas de color, es decir, cualquier imagen es posible, a través de este software, bien combinándola con otra, con un fondo o con un texto, y el resultado es sencillamente asombroso.  
 </p>
-[Link](https://www.artbreeder.com/create)
+[Link](https://www.artbreeder.com/create)   
 
 
 >otras veces la combinación de ADN del software da pie a «especies» de medios totalmente nuevas.
