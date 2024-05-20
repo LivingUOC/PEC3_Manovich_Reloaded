@@ -5,7 +5,11 @@
 
 Autor: Gonzalo Bautista García   
 
-**Cultura Digital**   
+**
+
+## Cultura Digital
+
+** 
 
 ***Grado de Técnicas de Interacción Digital y Multimedia***
 
