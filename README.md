@@ -51,6 +51,7 @@ El desarrollar la historia dentro de un mundo abierto, con una narrativa exclusi
 Puedo concluir este ensayo, afirmando que estamos ante un ejemplo paradigmático, de cómo la hibridación, pensada por Lev, puede estar viva dentro de los videojuegos actuales, a través de la combinación de gráficos, fusión de géneros, jugabilidad en línea, y el diseño de un mundo abierto, donde es habitual, ver la convergencia de diferentes tecnologías y medios, en experiencias completamente diferenciales con otros sistemas.  
 
 No solo se enriquece el medio videojuego, si no que asistimos al poder transformador de nuevas tecnologías en favor de formas diversas de arte y diversión y por ello, se vuelve a transformar y para el verano, aparece la versión cinematográfica del videojuego. 
+
 </p>
 
 
