@@ -21,7 +21,7 @@ Por todo ello, y por el grado de confianza que hemos llegado a tener, durante es
 Así que vamos a ello, Lev, permíteme que me ponga tus gafas, y me asome al mundo con estos dos ejemplos:
 
 
-## Re-descubriendo la hibridacion: Caso 1 Borderlands
+## Caso 1 Borderlands
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Borderlands_Movie_Logo.png/1200px-Borderlands_Movie_Logo.png)
 
 Borderlands, es una saga de videojuegos, que actualmente tiene 16 juegos, para todas las plataformas, arrancando en el año 2009, y creado por Gearbox software, es un hibrido entre mecánicas de rol y shooter, pionero en su estilo, donde años después, acabaron llamando a este estilo, looter shooter.
@@ -41,7 +41,7 @@ Puedo concluir este ensayo, afirmando que estamos ante un ejemplo paradigmático
 No solo se enriquece el medio videojuego, si no que asistimos al poder transformador de nuevas tecnologías en favor de formas diversas de arte y diversión y por ello, se vuelve a transformar y para el verano, aparece la versión cinematográfica del videojuego. 
 
 
-## Re-descubriendo la hibridacion: Caso 2 Artbreeder
+## Caso 2 Artbreeder
 ![Logo](https://d2y5h3osumboay.cloudfront.net/mj6ldyr776111mt3r7p41qf9lfj4)
 
 Y es que cuando confluyen diversas tecnologías y medios, se crean innovaciones sin precedentes en el campo de la creatividad artística.
