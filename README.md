@@ -3,8 +3,10 @@
 ### Recurso de aprendizaje de Cultura Digital 
 
 
-Autor: Gonzalo Bautista García
-**Cultura Digital**
+Autor: Gonzalo Bautista García   
+
+**Cultura Digital**   
+
 ***Grado de Técnicas de Interacción Digital y Multimedia***
 
 Fecha: 20-05-2024
