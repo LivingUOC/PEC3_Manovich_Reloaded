@@ -27,6 +27,7 @@ La hibridación de medios, podríamos resumirlo, desde mi punto de vista,  como 
 ## Caso 1 Borderlands
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Borderlands_Movie_Logo.png/1200px-Borderlands_Movie_Logo.png)
 
+<p align="justify">
 Borderlands, es una saga de videojuegos, que actualmente tiene 16 juegos, para todas las plataformas, arrancando en el año 2009, y creado por Gearbox software, es un hibrido entre mecánicas de rol y shooter, pionero en su estilo, donde años después, acabaron llamando a este estilo, looter shooter.  
 
 [Link](https://borderlands.2k.com/es-ES/)
@@ -56,7 +57,7 @@ Puedo concluir este ensayo, afirmando que estamos ante un ejemplo paradigmático
 
 No solo se enriquece el medio videojuego, si no que asistimos al poder transformador de nuevas tecnologías en favor de formas diversas de arte y diversión y por ello, se vuelve a transformar y para el verano, aparece la versión cinematográfica del videojuego. 
 
-
+</p>
 
 
 ## Caso 2 Artbreeder
