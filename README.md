@@ -63,7 +63,7 @@ En este caso Artbreeder, es una herramienta que a través de la IA, nos ofrece d
 
 >otras veces la combinación de ADN del software da pie a «especies» de medios totalmente nuevas.
 
-Lev, Manovich, L. [Lev]. (ed.) (2013). El software toma el mando (1ª. Ed.) [Recurso de aprendizaje] Editorial UOC. Comparación entre hibridez y multimedia. 5/25.
+>>Lev, Manovich, L. [Lev]. (ed.) (2013). El software toma el mando (1ª. Ed.) [Recurso de aprendizaje] Editorial UOC. Comparación entre hibridez y multimedia. 5/25.
 
 Eso pensarían los padres de Lev, si pudieran vislumbrar su obra, llegarían a creer que esa hibridación entre ellos, daría lugar a uno de los más grandes pensadores, una especie de medio, y es que el concepto hibridación viene heredado del plano sexual o reproductivo, según nos apunta Lev, por ello, todo coincide en el metamedio, todo es multimedia.  
 
