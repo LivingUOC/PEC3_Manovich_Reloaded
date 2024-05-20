@@ -31,8 +31,9 @@ La hibridación de medios, podríamos resumirlo, desde mi punto de vista,  como 
 <p align="justify">
 Borderlands, es una saga de videojuegos, que actualmente tiene 16 juegos, para todas las plataformas, arrancando en el año 2009, y creado por Gearbox software, es un hibrido entre mecánicas de rol y shooter, pionero en su estilo, donde años después, acabaron llamando a este estilo, looter shooter.  
 </p>
+<p align="justify">
 [Link](https://borderlands.2k.com/es-ES/)
-
+</p>
 <p align="justify">
 El propósito del juego consiste, en recolectar objetos dentro de un mundo apocalíptico, utilizar armas y convertirlas en otras, personalizar todo lo que este a nuestro alcance, tipo juego de rol, y poder colaborar con más usuarios a través de un modo on-line.  
 </p>
@@ -81,8 +82,9 @@ Y es que cuando confluyen diversas tecnologías y medios, se crean innovaciones 
 <p align="justify">
 En este caso Artbreeder, es una herramienta que a través de la IA, nos ofrece diferentes posibilidades, a través de fotografías, bien originales o creadas, entre ellas, tenemos opciones de generar una imagen, mezclando imágenes y texto, combinar un patrón con un texto, y generar algo nuevo, convertirnos en director, pidiendo al sistema que busque inspiración dándole imágenes, afinar texturas, crear una imagen a través de unas texturas de color, es decir, cualquier imagen es posible, a través de este software, bien combinándola con otra, con un fondo o con un texto, y el resultado es sencillamente asombroso.  
 </p>
+<p align="justify">
 [Link](https://www.artbreeder.com/create)   
-
+</p>
 
 >otras veces la combinación de ADN del software da pie a «especies» de medios totalmente nuevas.
 <p align="justify">
