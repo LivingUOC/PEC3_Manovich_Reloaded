@@ -13,7 +13,7 @@ Fecha: 20-05-2024
 
 
 
-## Planteamiento
+## Introducción común
 
 Lev, Lev, Lev, si hace unos meses alguien me hubiera dicho que sería la palabra que mas se iba a repetir durante un tiempo, pensaría en alguna teoría conspiranoica, pero mirando desde aquí hacia atrás, vería que me hubiera equivocado, pues el Sr. Manovich está muy presente en todos los procesos que venimos trabajando, así que para no quedarnos cortos, vamos a cogerle prestado su caleidoscopio particular, y vamos a enfocar dos ejemplos de nuestros días, dos muestras de hibridación, vistos desde su perspectiva particular y así entenderemos parte de su “locura”, de su universo, ese en el que esta envuelto y le rodea allá, casi donde mire..  
 
