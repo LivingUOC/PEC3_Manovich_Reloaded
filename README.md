@@ -10,7 +10,9 @@ Fecha: 20-05-2024
 
 ![Cultura Digital](https://i.ibb.co/5x3Bz27/mezcla2.jpg)
 
-
+```html
+<img src="https://th.bing.com/th/id/OIP.mnUTFXgWmK0tdNCGCMvBzAHaCg?rs=1&pid=ImgDetMain" width="830" height="563">
+```
 
 
 ## Introducción común
