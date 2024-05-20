@@ -34,7 +34,11 @@ Borderlands, es una saga de videojuegos, que actualmente tiene 16 juegos, para t
 
 El propósito del juego consiste, en recolectar objetos dentro de un mundo apocalíptico, utilizar armas y convertirlas en otras, personalizar todo lo que este a nuestro alcance, tipo juego de rol, y poder colaborar con más usuarios a través de un modo on-line.  
 
+<p align="justify">
+  
 Es un hecho de nuestros días, que el universo de los videojuegos, ha ido evolucionando de forma vertiginosa, desde su origen, integrando diversas formas de medios y tecnología, para generar experiencias multifacéticas e inmersivas. En este contexto, el concepto que nos propone Lev. De “hibridación tecnológica”, nos acerca a la perspectiva diferente para analizar los videojuegos actuales, como por ejemplo, Borderlands, desarrollado por Gearbox Software, fusionando múltiples elementos de diversos medios y tecnologías, para ofrecernos una experiencia, enriquecedora, diferente e inmersiva.  
+
+</p>
 
 Lev, en “El lenguaje de los Nuevos Medios” viene a decirnos que estos nuevos medios, se componen por la divergencia de varias formas de medios más antiguos y la incorporación de tecnologías digitales actuales. Este caso de hibridación, podemos ver como se ha “cocinado”, la narrativa, textual y cinematográfica, la interactividad con el usuario, y las capacidades gráficas, como nunca habíamos visto antes, en los ordenadores personales, y si además dotamos al sistema de unas cinemáticas elegantes, podemos estar ante un clarísimo ejemplo de hibridación.  
 
@@ -57,7 +61,7 @@ Puedo concluir este ensayo, afirmando que estamos ante un ejemplo paradigmático
 
 No solo se enriquece el medio videojuego, si no que asistimos al poder transformador de nuevas tecnologías en favor de formas diversas de arte y diversión y por ello, se vuelve a transformar y para el verano, aparece la versión cinematográfica del videojuego. 
 
-</p>
+
 
 
 ## Caso 2 Artbreeder
