@@ -130,6 +130,7 @@ Si nos paramos a pensar, según Lev, la hibridación tecnológica, puede desafia
 En conclusión, Artbreeder, es un claro ejemplo descrito por el Sr. Manovich L. donde converge la IA, arte digital, redes sociales y las neuronas mentales de cada usuario para crear nuevos diseños a través del poder de transformación de la tecnología en la era, actual, la era digital.---  
 </p>
 <p align="justify">
+  
 ***Sr. Manovich, si usted supiera en cuantos dilemas mentales esta sumergiendo a mis compañeros, seguro una sensación de confortabilidad recorrería su cuerpo, ah, por cierto, se me olvidaba, le devuelvo sus gafas, y le agradezco que me haya permitido usarlas para este ensayo, ya que, sin ellas, no hubiera podido llegar hasta aquí, mis respetos y admiración, amigo.***
 </p>
 
