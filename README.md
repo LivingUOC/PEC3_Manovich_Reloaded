@@ -12,7 +12,7 @@ Fecha: 20-05-2024
 
 
 ## Introducción común
-
+<p align="justify">
 Lev, Lev, Lev, si hace unos meses alguien me hubiera dicho que sería la palabra que mas se iba a repetir durante un tiempo, pensaría en alguna teoría conspiranoica, pero mirando desde aquí hacia atrás, vería que me hubiera equivocado, pues el Sr. Manovich está muy presente en todos los procesos que venimos trabajando, así que para no quedarnos cortos, vamos a cogerle prestado su caleidoscopio particular, y vamos a enfocar dos ejemplos de nuestros días, dos muestras de hibridación, vistos desde su perspectiva particular y así entenderemos parte de su “locura”, de su universo, ese en el que esta envuelto y le rodea allá, casi donde mire..  
 </p>
 <p align="justify">
@@ -21,8 +21,6 @@ La hibridación de medios, podríamos resumirlo, desde mi punto de vista,  como 
 <p align="justify">
 ***Por todo ello, y por el grado de confianza que hemos llegado a tener, durante este informe, me dirigiré a él, por su nombre, no por su apellido, ya que está claro que cuando conoces a alguien con tanto detalle, te has ganado la atribución de poder dirigirte a él, por su nombre de pila. Así que vamos a ello, Lev, permíteme que me ponga tus gafas, y me asome al mundo con estos dos ejemplos:***
 </p>
-
-
 
 ## Caso 1 Borderlands
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Borderlands_Movie_Logo.png/1200px-Borderlands_Movie_Logo.png)
