@@ -18,9 +18,9 @@ Lev, Lev, Lev, si hace unos meses alguien me hubiera dicho que sería la palabra
 <p align="justify">
 La hibridación de medios, podríamos resumirlo, desde mi punto de vista,  como un proceso destripador de unidades independientes,  un hibrido entre Jack el destripador y Frankestein, donde creamos vida a partir de las unidades corporales que vamos recolectando de otras fuentes, confluyendo para dar vida a algo nuevo  y por ello creamos un monstruo capaz de sorprendernos con sus bondades y sentimientos.  
 </p>
-<p align="justify">
-***Por todo ello, y por el grado de confianza que hemos llegado a tener, durante este informe, me dirigiré a él, por su nombre, no por su apellido, ya que está claro que cuando conoces a alguien con tanto detalle, te has ganado la atribución de poder dirigirte a él, por su nombre de pila. Así que vamos a ello, Lev, permíteme que me ponga tus gafas, y me asome al mundo con estos dos ejemplos:***
-</p>
+
+**Por todo ello, y por el grado de confianza que hemos llegado a tener, durante este informe, me dirigiré a él, por su nombre, no por su apellido, ya que está claro que cuando conoces a alguien con tanto detalle, te has ganado la atribución de poder dirigirte a él, por su nombre de pila. Así que vamos a ello, Lev, permíteme que me ponga tus gafas, y me asome al mundo con estos dos ejemplos:**
+
 
 ## Caso 1 Borderlands
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Borderlands_Movie_Logo.png/1200px-Borderlands_Movie_Logo.png)
