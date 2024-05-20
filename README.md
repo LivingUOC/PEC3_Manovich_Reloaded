@@ -18,6 +18,7 @@ Lev, Lev, Lev, si hace unos meses alguien me hubiera dicho que sería la palabra
 La hibridación de medios, podríamos resumirlo, desde mi punto de vista,  como un proceso destripador de unidades independientes,  un hibrido entre Jack el destripador y Frankestein, donde creamos vida a partir de las unidades corporales que vamos recolectando de otras fuentes, confluyendo para dar vida a algo nuevo  y por ello creamos un monstruo capaz de sorprendernos con sus bondades y sentimientos.  
 
 ***Por todo ello, y por el grado de confianza que hemos llegado a tener, durante este informe, me dirigiré a él, por su nombre, no por su apellido, ya que está claro que cuando conoces a alguien con tanto detalle, te has ganado la atribución de poder dirigirte a él, por su nombre de pila. Así que vamos a ello, Lev, permíteme que me ponga tus gafas, y me asome al mundo con estos dos ejemplos:***
+</p>
 
 
 ## Caso 1 Borderlands
@@ -52,7 +53,7 @@ Puedo concluir este ensayo, afirmando que estamos ante un ejemplo paradigmático
 
 No solo se enriquece el medio videojuego, si no que asistimos al poder transformador de nuevas tecnologías en favor de formas diversas de arte y diversión y por ello, se vuelve a transformar y para el verano, aparece la versión cinematográfica del videojuego. 
 
-</p>
+
 
 
 ## Caso 2 Artbreeder
