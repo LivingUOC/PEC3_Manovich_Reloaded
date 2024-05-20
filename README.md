@@ -12,9 +12,7 @@ Fecha: 20-05-2024
 
 
 ## Introducción común
-<p style="text-align: justify;">
-Lev, Lev, Lev, si hace unos meses alguien me hubiera dicho que sería la palabra que mas se iba a repetir durante un tiempo, pensaría en alguna teoría conspiranoica, pero mirando desde aquí hacia atrás, vería que me hubiera equivocado, pues el Sr. Manovich está muy presente en todos los procesos que venimos trabajando, así que para no quedarnos cortos, vamos a cogerle prestado su caleidoscopio particular, y vamos a enfocar dos ejemplos de nuestros días, dos muestras de hibridación, vistos desde su perspectiva particular y así entenderemos parte de su “locura”, de su universo, ese en el que esta envuelto y le rodea allá, casi donde mire.. 
-</p>
+<p align="justify">
 Lev, Lev, Lev, si hace unos meses alguien me hubiera dicho que sería la palabra que mas se iba a repetir durante un tiempo, pensaría en alguna teoría conspiranoica, pero mirando desde aquí hacia atrás, vería que me hubiera equivocado, pues el Sr. Manovich está muy presente en todos los procesos que venimos trabajando, así que para no quedarnos cortos, vamos a cogerle prestado su caleidoscopio particular, y vamos a enfocar dos ejemplos de nuestros días, dos muestras de hibridación, vistos desde su perspectiva particular y así entenderemos parte de su “locura”, de su universo, ese en el que esta envuelto y le rodea allá, casi donde mire..  
 
 La hibridación de medios, podríamos resumirlo, desde mi punto de vista,  como un proceso destripador de unidades independientes,  un hibrido entre Jack el destripador y Frankestein, donde creamos vida a partir de las unidades corporales que vamos recolectando de otras fuentes, confluyendo para dar vida a algo nuevo  y por ello creamos un monstruo capaz de sorprendernos con sus bondades y sentimientos.  
@@ -53,6 +51,7 @@ El desarrollar la historia dentro de un mundo abierto, con una narrativa exclusi
 Puedo concluir este ensayo, afirmando que estamos ante un ejemplo paradigmático, de cómo la hibridación, pensada por Lev, puede estar viva dentro de los videojuegos actuales, a través de la combinación de gráficos, fusión de géneros, jugabilidad en línea, y el diseño de un mundo abierto, donde es habitual, ver la convergencia de diferentes tecnologías y medios, en experiencias completamente diferenciales con otros sistemas.  
 
 No solo se enriquece el medio videojuego, si no que asistimos al poder transformador de nuevas tecnologías en favor de formas diversas de arte y diversión y por ello, se vuelve a transformar y para el verano, aparece la versión cinematográfica del videojuego. 
+</p>
 
 
 ## Caso 2 Artbreeder
