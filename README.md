@@ -128,7 +128,7 @@ En conclusión, Artbreeder, es un claro ejemplo descrito por el Sr. Manovich L. 
 </p>
 <p align="justify">
   
-***Sr. Manovich, si usted supiera en cuantos dilemas mentales está sumergiendo a mis compañeros, seguro una sensación de confortabilidad recorrería su cuerpo, ah, por cierto, se me olvidaba, le devuelvo sus gafas, y le agradezco que me haya permitido usarlas para este ensayo, ya que, sin ellas, no hubiera podido llegar hasta aquí, mis respetos y admiración, amigo.***
+***Sr. Manovich, si usted supiera en cuantos dilemas mentales está sumergiendo a mis compañeros, seguro que una sensación de confortabilidad recorrería su cuerpo, ah, por cierto, se me olvidaba, le devuelvo sus gafas, y le agradezco que me haya permitido usarlas para este ensayo, ya que, sin ellas, no hubiera podido llegar hasta aquí, mis respetos y admiración, amigo.***
 </p>
 
 ### Referencias y Bibliografía
