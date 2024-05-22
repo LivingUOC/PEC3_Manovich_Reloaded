@@ -6,7 +6,7 @@ Autor: Gonzalo Bautista García
 
 ***Grado de Técnicas de Interacción Digital y Multimedia***
 
-Fecha: 20-05-2024
+Fecha: 22-05-2024
 
 ![Cultura Digital](https://i.ibb.co/5x3Bz27/mezcla2.jpg)
 
