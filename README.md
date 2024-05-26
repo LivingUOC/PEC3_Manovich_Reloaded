@@ -64,7 +64,7 @@ El desarrollar la historia dentro de un mundo abierto, con una narrativa exclusi
 </p>
 
 <p align="justify">
-Y como me recordó un buen amigo, que en este caso , encontramos el el concepto de "Estetica hibrida".
+Y como me recordó un buen amigo, que en este caso , encontramos el concepto de "Estetica híbrida".
 </p>  
 
 >"La nueva estética híbrida existe en infinidad de variaciones, pero su principio más básico es siempre el mismo: yuxtaponer estéticas visuales de distintos medios previamente diferenciadas dentro de una misma imagen"
