@@ -62,6 +62,18 @@ Esta funcionalidad “on line”, se basa en las altas capacidades que tienen lo
 <p align="justify">
 El desarrollar la historia dentro de un mundo abierto, con una narrativa exclusiva, aportan una mayor libertad y personalización de la experiencia del jugador, a diferencia de los juegos habituales, aquí disponemos de una superficie tan sumamente amplia, que nos permite tomar una serie de decisiones que pueden afectar al contenido de la historia. Esta estructura no lineal, donde el jugador no está “limitado”, a seguir un guion, aporta dinamismo y personalización, destacando la hibridación tecnológica, para innovar en el ámbito del entretenimiento a través de videojuegos.  
 </p>
+
+<p align="justify">
+Y como me recordó un buen amigo, que en este caso , encontramos el el concepto de "Estetica hibrida".
+</p>  
+
+>"La nueva estética híbrida existe en infinidad de variaciones, pero su principio más básico es siempre el mismo: yuxtaponer estéticas visuales de distintos medios previamente diferenciadas dentro de una misma imagen"
+>>(Manovich, 2013, Capítulo 5 pp257)
+
+<p align="justify">
+Imaginemos que, han pintado el cielo con acuarelas, lapiceros de colores para colorear las flores, rotuladores de colores, para colorear los arboles, y esbozos de lapicero, para contornear los personales, esta mezcla de estilos, da lugar a la creación de algo nuevo, y en este caso, me atrevería a decir, único.
+</p>
+
 <p align="justify">
 Puedo concluir este ensayo, afirmando que estamos ante un ejemplo paradigmático, de cómo la hibridación, pensada por Lev, puede estar viva dentro de los videojuegos actuales, a través de la combinación de gráficos, fusión de géneros, jugabilidad en línea, y el diseño de un mundo abierto, donde es habitual, ver la convergencia de diferentes tecnologías y medios, en experiencias completamente diferenciales con otros sistemas.  
 </p>
